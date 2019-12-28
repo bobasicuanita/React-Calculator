@@ -1,0 +1,11 @@
+export const GET_NUMBERS = 'GET_NUMBERS';
+export const GET_SECOND_NUMBERS = 'GET_SECOND_NUMBERS';
+export const RETURN_STATE = 'RETURN_STATE';
+export const ADD = 'ADD';
+export const REMOVE = 'REMOVE';
+export const MULTIPLY = 'MULTIPLY';
+export const DIVIDE = 'DIVIDE';
+export const RESULT = 'RESULT';
+export const CLEAR = 'CLEAR';
+export const BACKSPACE_FIRST = 'BACKSPACE_FIRST';
+export const BACKSPACE_SECOND = 'BACKSPACE_SECOND';

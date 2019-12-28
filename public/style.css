@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12) !important; 
+}
+
+
+.size {
+    width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 3% 2% 2% 2%;
+    background-color: #fff;
+    -webkit-box-shadow: 5px 5px 13px -2px rgba(0,0,0,0.68);
+    -moz-box-shadow: 5px 5px 13px -2px rgba(0,0,0,0.68);
+    box-shadow: 5px 5px 13px -2px rgba(0,0,0,0.68);
+}
+
+.title {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 34px !important;
+    color: #fff !important;
+}
+
+.screen {
+    background-color: #fff;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
